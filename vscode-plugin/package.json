@@ -602,7 +602,7 @@
 		"@types/randomstring": "1.1.8",
 		"@types/ssh2": "1.11.6",
 		"@types/ssh2-streams": "0.1.9",
-		"@types/vscode": "1.64.0",
+		"@types/vscode": "1.90.0",
 		"emittery": "0.10.1",
 		"filepath": "1.1.0",
 		"google-protobuf": "3.12.4",
