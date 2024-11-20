@@ -1,4 +1,4 @@
-FROM ubuntu:bionic-20220531
+FROM ubuntu:18.04
 
 ARG ACCESS_TOKEN
 
